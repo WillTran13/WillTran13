@@ -1,15 +1,18 @@
-### Will Tran
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+👋 Hi, I’m Will, a data analyst from California, US. 
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Technojam
+## About Me
+- 🎓 Degree in Managerial Economics, and Technology Management.
+- 🏃‍♂️ Avid jogger. 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Skills and Tools
+- **Tools:** Excel; SQL (JOINS, CTEs, subqueries, UNIONs); Python; Tableau; R
+- **Analytics & Data Solutions:** Database Management; Statistical Analysis; Data Visualization; Data Wrangling; Logistics Analysis.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=WillTran13&show_icons=true)
+## Projects
+- View my portfolio projects on [**my website**](https://willatran.com/). 
+- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/willatran).
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📫 Connect with Me
+- [Website](https://willatran.com/)
+- [LinkedIn](https://www.linkedin.com/in/willatran/)
+- [Email](mailto:me@willatran.com)
