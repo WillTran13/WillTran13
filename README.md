@@ -2,10 +2,10 @@
 
 ## About Me
 - 🎓 Degree in Managerial Economics, and Technology Management.
-- 🏃‍♂️ Avid jogger. 
+- 🏃‍♂ Jogger and chess enthusiast. 
 
 ## Technical Skills and Tools
-- **Tools:** Excel; SQL (JOINS, CTEs, subqueries, UNIONs); Python; Tableau; R
+- **Tools:** Excel; SQL (JOINS, CTEs, subqueries, UNIONs); Python; Tableau.
 - **Analytics & Data Solutions:** Database Management; Statistical Analysis; Data Visualization; Data Wrangling; Logistics Analysis.
 
 ## Projects
