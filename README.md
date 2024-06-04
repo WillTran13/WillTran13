@@ -6,7 +6,7 @@
 
 ## Technical Skills and Tools
 - **Tools:** Excel; SQL (JOINS, CTEs, subqueries, UNIONs); Python; Tableau.
-- **Analytics & Data Solutions:** Database Management; Statistical Analysis; Data Visualization; Data Wrangling; Logistics Analysis.
+- **Analytics & Data Solutions:** Database Management; Data Visualization; Data Wrangling; Logistics Analysis.
 
 ## Projects
 - Check out my portfolio projects on [**my website**](https://willatran.com/). 
@@ -14,5 +14,6 @@
 
 ## Let's Connect
 - [Website](https://willatran.com/)
-- [LinkedIn](https://www.linkedin.com/in/willatran/)
 - [Email](mailto:me@willatran.com)
+- [LinkedIn](https://www.linkedin.com/in/willatran/)
+
