@@ -1,4 +1,4 @@
-👋 Hi, I’m Will, a data analyst from California, US. 
+# 👋 Hi, I’m Will, a data analyst from California, US. 
 
 ## About Me
 - 🎓 Degree in Managerial Economics, and Technology Management.
