@@ -13,7 +13,7 @@
 - Check out my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/willatran).
 
 ## Let's Connect
-- [Website](https://willatran.com/)
+- [My Data Science Portfolio](https://willatran.com/)
 - [Email](mailto:me@willatran.com)
 - [LinkedIn](https://www.linkedin.com/in/willatran/)
 
