@@ -9,11 +9,9 @@
 - **Analytics & Data Solutions:** Database Management; Data Visualization; Data Wrangling; Logistics Analysis.
 
 ## Projects
-- Check out my portfolio projects on [**my website**](https://willatran.com/). 
-- Check out my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/willatran).
+- Check out my portfolio projects on [**my portfolio website**](https://willatran.com/). 
 
 ## Let's Connect
-- [My Data Science Portfolio](https://willatran.com/)
-- [Email](mailto:me@willatran.com)
+- [Send me an email](mailto:me@willatran.com)
 - [LinkedIn](https://www.linkedin.com/in/willatran/)
 
