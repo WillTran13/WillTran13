@@ -8,7 +8,7 @@ Currently transforming raw sensor logs into production-ready datasets using **Do
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Infrastructure & Orchestration**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,7 +29,7 @@ Currently transforming raw sensor logs into production-ready datasets using **Do
 
 ---
 
-### 🚀 Featured Engineering Project
+### Featured Engineering Project
 
 #### [Automated Sensor Data Validation Pipeline](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
 *A containerized infrastructure to validate unstructured sensor data for autonomous systems.*
@@ -40,13 +40,13 @@ Currently transforming raw sensor logs into production-ready datasets using **Do
 
 ---
 
-### 📚 Current Focus
+### Current Focus
 * **Mastering:** Computational Data Analysis (ISYE 6740) & High-Dimensional Data Analytics.
 * **Building:** Hardening data pipelines with "Chaos Engineering" principles to test resilience against network failures.
 * **Reading:** *Designing Machine Learning Systems* by Chip Huyen.
 
 ---
 
-### 📫 Connect
+### Connect
 [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/willatran/)  
 [<img src='https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail' height='40'>](mailto:me@willatran.com)
